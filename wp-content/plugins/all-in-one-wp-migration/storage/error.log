@@ -1,0 +1,24 @@
+Apr 03 2023 10:54:51
+{"Number":2,"Message":"touch(): Utime failed: No such file or directory","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":545}
+
+Apr 03 2023 10:54:51
+{"Number":2,"Message":"chmod(): Invalid argument","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":548}
+
+Apr 03 2023 10:54:52
+{"Number":2,"Message":"touch(): Utime failed: No error","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":545}
+
+Apr 03 2023 10:54:52
+{"Number":2,"Message":"chmod(): Invalid argument","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":548}
+
+Apr 03 2023 11:12:30
+{"Number":2,"Message":"touch(): Utime failed: No such file or directory","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":545}
+
+Apr 03 2023 11:12:30
+{"Number":2,"Message":"chmod(): Invalid argument","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":548}
+
+Apr 03 2023 11:12:31
+{"Number":2,"Message":"touch(): Utime failed: No error","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":545}
+
+Apr 03 2023 11:12:31
+{"Number":2,"Message":"chmod(): Invalid argument","File":"C:\\MAMP\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":548}
+

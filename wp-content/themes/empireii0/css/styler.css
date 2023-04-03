@@ -1,0 +1,96 @@
+#styler{
+	width: 239px;
+	height: 386px;
+	background-image: url('../images/styler-bg.png');
+	position: fixed;
+	left: -200px;
+	top: 90px;
+	z-index: 200;
+	
+}
+
+#styler .gear{
+	position: absolute;
+	right: 14px;
+	top: 34px;
+}
+
+#styler .gear img{
+	width: 20px;
+	height: 20px;
+}
+
+#styler .txt1{
+	position: absolute;
+	right: 8px;
+	top: 64px;
+}
+
+#styler .panel{
+	width: 159px;
+	margin-left: 20px;
+	text-align: center;
+	margin-top: 20px;
+	font-family: 'PT Sans Narrow';
+}
+
+#styler a,
+#styler a img{
+	outline: none;
+}
+
+#styler .panel h3{
+	font-size: 17px;
+	font-weight: bold;
+	clear: both;
+	margin-bottom: 20px;
+}	
+
+#styler .texture {
+	width: 100%;
+	clear: both;
+	margin-bottom: 20px;
+	float: left;
+}
+
+#styler .texture li{
+	width: 50%;		
+	float: left;
+	margin-bottom: 10px;	
+	text-align: left;
+}
+
+#styler .texture li:nth-child(even) img{
+	float: right;
+}
+
+#styler .texture li span{
+	clear: both;
+}
+
+#styler .texture li img{
+	float: left;
+}
+
+#styler  a{
+	text-decoration: none;
+	color: #444;
+	line-height: 20px;
+	color: #444;
+}
+
+#styler .position {
+	width: 100%;
+	clear: both;
+	float: left;
+}
+
+#styler .position li{
+	float: left;
+	width: 33%;	
+}
+
+#styler .position li img{
+	border: 1px solid #999;
+
+}
