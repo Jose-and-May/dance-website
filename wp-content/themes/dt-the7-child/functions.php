@@ -1,5 +1,0 @@
-<?php
-/**
- * Your code here.
- *
- */
